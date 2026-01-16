@@ -18,7 +18,7 @@ This project implements the core object relationships and structural backbone fo
 
 📐 UML Implementation Details
 
-![Banking System UML](./game-uml.JPG)
+![Banking System UML](./game_uml.JPG)
 
 Following a strict UML specification, I developed the following entity relationships:
 
