@@ -8,7 +8,7 @@ This project implements the core object relationships and structural backbone fo
 
     Composition vs. Aggregation: * Implemented Composition for internal components where the "part" cannot exist without the "whole" (e.g., specific game roles).
 
-        Implemented Aggregation for relationships where objects exist independently (e.g., players within a game).
+    Implemented Aggregation for relationships where objects exist independently (e.g., players within a game).
 
     Static Factory Methods: Developed specialized static methods to instantiate objects, providing a cleaner and more descriptive alternative to standard constructors.
 
@@ -17,6 +17,8 @@ This project implements the core object relationships and structural backbone fo
     Data Modeling: Mapped a complex sci-fi theme (Maps: The Skeld, MIRA HQ, Polus, Airship) into a structured class hierarchy.
 
 📐 UML Implementation Details
+
+![Banking System UML](./game-uml.JPG)
 
 Following a strict UML specification, I developed the following entity relationships:
 
